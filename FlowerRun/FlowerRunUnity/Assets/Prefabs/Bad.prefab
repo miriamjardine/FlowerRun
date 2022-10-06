@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 5232382550189074616}
   - component: {fileID: 8016867791878354626}
   - component: {fileID: -6486712814307647356}
-  - component: {fileID: -8164318460630468088}
   - component: {fileID: -6055766805612676557}
   m_Layer: 0
   m_Name: Bad
@@ -99,7 +98,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
+  m_Size: {x: 1.5, y: 1.5, z: 1.5}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!54 &8016867791878354626
 Rigidbody:
@@ -130,30 +129,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   seconds: 2
---- !u!114 &-8164318460630468088
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5653514592129922293}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8d471382242d3a74c8ca74ccca7f2232, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  startEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  awakeEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  disableEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  enableEvent:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &-6055766805612676557
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -168,3 +143,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefab: {fileID: 5653514592129922293}
   seconds: 4
+  onClickEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: f92f01826edc6834083df796333516da, type: 2}
+        m_TargetAssemblyTypeName: GameAction, Assembly-CSharp
+        m_MethodName: RaiseAction
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
