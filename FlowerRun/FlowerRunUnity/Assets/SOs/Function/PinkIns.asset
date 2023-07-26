@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df6d840cf5861124298699444caf7a8b, type: 3}
   m_Name: PinkIns
   m_EditorClassIdentifier: 
-  prefab: {fileID: 6985973051845037276, guid: 1325e93ff5d625d40a601eb314094419, type: 3}
+  prefab: {fileID: 8961486374323989338, guid: f05d2bfdb062e3d4198cdd7c9fb547f9, type: 3}
   idDataObj: {fileID: 11400000, guid: 9f9a03a5fd003de459d61aa7b3b81fed, type: 2}

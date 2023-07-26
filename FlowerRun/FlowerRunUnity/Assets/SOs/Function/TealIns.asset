@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df6d840cf5861124298699444caf7a8b, type: 3}
   m_Name: TealIns
   m_EditorClassIdentifier: 
-  prefab: {fileID: 8666314231399429301, guid: b0a55289d78dc3e4cbce7752f7842f32, type: 3}
+  prefab: {fileID: 4497154370940675251, guid: 66b0e8a0b4c91e74aa173d8806478b7d, type: 3}
   idDataObj: {fileID: 11400000, guid: 9f9a03a5fd003de459d61aa7b3b81fed, type: 2}

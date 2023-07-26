@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df6d840cf5861124298699444caf7a8b, type: 3}
   m_Name: RedIns
   m_EditorClassIdentifier: 
-  prefab: {fileID: 3954363792399727797, guid: ffb067e9f0805494ca5277e15ffd3d42, type: 3}
+  prefab: {fileID: 3065900340934824663, guid: 8964946b87da69546911168fbb2e101c, type: 3}
   idDataObj: {fileID: 11400000, guid: 9f9a03a5fd003de459d61aa7b3b81fed, type: 2}

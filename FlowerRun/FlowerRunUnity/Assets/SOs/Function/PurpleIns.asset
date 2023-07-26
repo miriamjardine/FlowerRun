@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df6d840cf5861124298699444caf7a8b, type: 3}
   m_Name: PurpleIns
   m_EditorClassIdentifier: 
-  prefab: {fileID: 4869872755247077418, guid: 8a68fb856fa780b4387b0042ce734769, type: 3}
+  prefab: {fileID: 1950413567556750648, guid: b35efd9b3123cc14a820643128695caa, type: 3}
   idDataObj: {fileID: 11400000, guid: 9f9a03a5fd003de459d61aa7b3b81fed, type: 2}

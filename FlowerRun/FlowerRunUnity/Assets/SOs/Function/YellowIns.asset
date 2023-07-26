@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df6d840cf5861124298699444caf7a8b, type: 3}
   m_Name: YellowIns
   m_EditorClassIdentifier: 
-  prefab: {fileID: 7727607917161606082, guid: b60a8586a242d204ca10e6ca2de03ece, type: 3}
+  prefab: {fileID: 5623402999881463642, guid: c3595eaa8e9be524599c9fda4d812f05, type: 3}
   idDataObj: {fileID: 11400000, guid: 9f9a03a5fd003de459d61aa7b3b81fed, type: 2}
